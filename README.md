@@ -23,5 +23,5 @@ How to use it?
 
 6. Select the endpoint you want to use.
 
-I will keep updating this Repository, stay tune!
+Feel free to use, I will keep updating this Repository, stay tune!
 
